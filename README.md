@@ -7,7 +7,7 @@ Google User Messaging Platform (UMP) SDK gdpr choices.
 cordova plugin add https://github.com/MrRotella/cordova-plugin-gdpr-choices.git
 ```
 
-### andoridx preference version
+### Androidx preference version
 ```bash
 cordova plugin add https://github.com/MrRotella/cordova-plugin-gdpr-choices.git --variable PREF_VERSION=1.2.0
 ```
